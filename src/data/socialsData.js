@@ -1,14 +1,11 @@
 export const socialsData = {
-    github: 'https://github.com/vijaypozz',
-    facebook: 'https://www.facebook.com/vijay.aijay.16/',
-    linkedIn: 'https://www.linkedin.com/in/vijay-s-95a434220',
-    instagram: 'https://www.instagram.com/vijay_s__/    ',
+    github: 'https://github.com/Ranjithkumardeveloper',
+    facebook: 'https://www.facebook.com/franklin.ranjith.3',
+    instagram: 'https://www.instagram.com/i_am_franklin_ranjith_/',
     codepen: 'https://codepen.io/',
-    twitter: 'https://twitter.com/Vijay_Sundar_',
+    twitter: 'https://twitter.com/FranklinRanjith',
     reddit: 'https://www.reddit.com/user/',
-    blogger: 'https://vijaypopzz.netlify.app/',
     medium: 'https://medium.com/@',
     stackOverflow: 'https://stackoverflow.com/users/',
-    gitlab: 'https://gitlab.com/vijaypozz',
     youtube: 'https://youtube.com/'
 }

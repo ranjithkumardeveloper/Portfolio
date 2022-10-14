@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'St. Aloysius HS School, Karankadu',
+        institution: 'Adhiyamaan Boys Hr. Sec School',
         course: 'Secondary School Leaving Certificate',
-        startYear: '2014',
-        endYear: '2015'
+        startYear: '2011',
+        endYear: '2013'
     },
     {
         id: 2,
-        institution: 'St. Aloysius HS School, Karankadu',
+        institution: 'Adhiyamaan Boys Hr. Sec School',
         course: 'Higher Secondary Education',
-        startYear: '2016',
-        endYear: '2017'
+        startYear: '2013',
+        endYear: '2015'
     },
     {
         id: 3,
-        institution: 'DMI Engineering College, Aralvaimozhi',
-        course: 'Mechanical Engineering',
-        startYear: '2017',
-        endYear: '2021'
+        institution: 'Don Bosco College, Dharmapuri',
+        course: 'BCA',
+        startYear: '2015',
+        endYear: '2018'
     },
 ]

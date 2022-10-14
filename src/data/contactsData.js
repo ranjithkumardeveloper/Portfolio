@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'vijays04042000@gmail.com',
-    phone: '+918144857460',
-    address: 'Nullivilai, Carmel Matha Street, kanniyakumari - 629809 ',
+    email: 'ranjithkumarsaravanandev@gmail.com',
+    phone: '+917845608555',
+    address: 'M.G.R Nagar, Kumaraswamy pet(pt), Dharmapuri - 636701 ',
 
     sheetAPI: ''
 }
